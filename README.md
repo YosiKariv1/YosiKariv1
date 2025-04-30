@@ -11,9 +11,9 @@
 ---
 
 ### 📌 About Me  
-💻 Passionate about building software and exploring new technologies  
-🌱 Currently focused on web development and backend systems  
-🔧 Always open to interesting collaborations and challenges
+🌐 Passionate about web technologies and real-world applications  
+📚 Always learning — from frontend to backend  
+🤝 Looking to grow through meaningful projects and teamwork
 
 ---
 
